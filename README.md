@@ -1,8 +1,8 @@
-# go-by-example
+# learn-go
 
 Go 语言上手配套实例代码
 
-### [点此查看配套学员手册](https://bytedance.feishu.cn/docx/doxcnZEMaiB9EGzZ0Z97WULAWOL)
+### [点此查看配套手册](https://bytedance.feishu.cn/docx/doxcnZEMaiB9EGzZ0Z97WULAWOL)
 
 ### [点此在线运行代码](https://gitpod.io/#github.com/wangkechun/go-by-example)
 
